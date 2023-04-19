@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/FlavioMalvestitiJunior/TestingServerJS/issues"
   },
-  "homepage": "https://github.com/FlavioMalvestitiJunior/TestingServerJS#readme"
+  "homepage": "https://github.com/FlavioMalvestitiJunior/TestingServerJS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
